@@ -1,0 +1,124 @@
+body {
+    padding: 0;
+
+}
+
+
+#Nav-bar-section  {
+    background-color: #215D65;
+    color: #000;
+}
+
+.navbar {
+    padding-bottom: 0 0 4.5rem;
+}
+
+/* 
+.nav-link {
+    padding: 0 18px;
+    font-size: 1rem;
+    font-weight: bold;
+    color: #000;
+} */
+
+.navtxt1 {
+    color: #FFFB73;
+    font-size: 1.8rem;
+    font-family: 'Audiowide';
+    margin-left: 42px;
+}
+
+.jui {
+    padding-right: 70px;
+}
+
+.nav-item {
+    margin-right: 40px;
+    color: #000;
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-left: 30px;
+}
+
+
+.underline-hover {
+    position: relative;
+    display: inline-block;
+    text-decoration: none;
+    color: #fff;
+    transition: border-bottom 0.3s ease-in-out;
+}
+
+.underline-hover:hover {
+    border-bottom: 2px solid #FFFB73; /* Adjust the color and thickness as needed */
+}
+
+
+/* first section */
+
+#first-section {
+background-color: #ffffff;
+   padding: 0; 
+   margin-bottom: 30px;
+}
+
+.image-div {
+    width: 100%;
+margin-top: 30px;
+border-radius: 0 0 100px 100px;
+overflow: hidden;
+object-fit: cover;
+height: 22rem;
+}
+
+#image {
+    width: 100%;
+    height: 22rem;
+    border-radius: 0 0 100px 100px;
+    overflow: hidden;
+    object-fit: cover;
+}
+
+#small-text {
+    padding-left: 10px;
+   width: 180px;
+   height: 28.8px;
+    margin-top: 40px;
+    margin-left: 40px;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+
+#big-div-text {
+    background-color: #215E63;
+padding-left: 30px;
+padding-right: 30px;
+padding-top: 30px;
+padding-bottom: 30px;
+
+    
+}
+
+
+/* second section */
+
+#secomd-section {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#sec-text1 {
+
+    padding-top: 20px;
+}
+
+
+/* third section */
+#third-section {
+    padding: 0;
+    margin: 0;
+}
+
+.third-sect-text {
+    text-align: center;
+}
